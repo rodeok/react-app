@@ -1,4 +1,4 @@
-import "./App.css";
+import style from "./App.css";
 import Person from "./Person/Person";
 import { Component } from "react";
 
@@ -102,4 +102,3 @@ class App extends Component {
 }
 
 export default App;
-
