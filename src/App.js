@@ -8,6 +8,8 @@ class App extends Component {
       { id: "adsf3", name: "Max", age: 26 },
       { id: "xvfh4", name: "Manu", age: 25 },
       { id: "fdsf5", name: "Victor", age: 26 },
+      { id: "fdsf5", name: "favv", age: 26 },
+
     ],
     showPerson: false
   };
